@@ -1,0 +1,1 @@
+CHRM	StartPOS	EndPOS	type
